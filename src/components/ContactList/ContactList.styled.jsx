@@ -21,7 +21,7 @@ export const ListItem = styled.li`
     margin-top: 15px;
     margin-bottom: 15px;
     font-family: 'Open Sans';
-    color: #010713;
+    color: #010711;
     font-size: 20px;
     font-weight: bold;
     gap: 8px;
